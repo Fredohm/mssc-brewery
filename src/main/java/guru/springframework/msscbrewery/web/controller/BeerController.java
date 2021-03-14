@@ -13,6 +13,7 @@ import java.util.UUID;
 /**
  * Created by jt on 2019-04-20.
  */
+@Deprecated
 @RequiredArgsConstructor
 @RequestMapping("/api/v1/beer")
 @RestController
