@@ -13,7 +13,6 @@ import java.util.UUID;
 /**
  * Created by jt on 2019-04-20.
  */
-@Deprecated
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
